@@ -1,8 +1,8 @@
 👋 Hi there! I’m Melih.
 
 🎓 **Junior Computer Engineering Student** at Sabancı Üniversitesi  
-🌱 **Currently Learning**: Advanced Data Structures, Software Engineering, and Full Stack Development  
-💻 **Passionate About**: Machine Learning, Data Science, and Software Development  
+🌱 **Currently Learning**: Network and Data Science, Software Engineering, and Full Stack Development  
+💻 **Passionate About**: Data Science, and Software Development  
 💼 **Recently Completed**: Technology Architecture Internship at Akbank Teknoloji  
 🔭 **Working On**: Personal projects involving Python, Java, and web development  
 📚 **Interested in**: Exploring the intersection of technology with various sectors  
